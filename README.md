@@ -1,1 +1,2 @@
-# mycard-credentials
+# static
+Manage static files.
